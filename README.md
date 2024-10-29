@@ -1,7 +1,7 @@
 👋 **Hi, I’m Alex Phakdy!**  
-🎓 **Computer Information Systems major** with a minor in Business at the University of South Carolina. Passionate about **web development**, **UI/UX design**, and **IT**, I enjoy building user-centered applications with clean, intuitive interfaces.
+🎓 **Computer Information Systems major** with a minor in Business at the University of South Carolina. Passionate about **web development**, and **UI/UX design**, I’m passionate about designing user-centered web applications with seamless, intuitive interfaces and a focus on cohesive app experiences.
 
-💻 Skills: Experienced with Django, MongoDB, Figma, Flexbox, and more. I love tackling both frontend and backend challenges and am particularly interested in e-commerce and educational platforms.
+💻 Skills: Experienced with Django, MongoDB, Figma, Flexbox, and more. I love tackling both frontend and backend challenges.
 
 🚀 Projects: Some highlights include:
 
