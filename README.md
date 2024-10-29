@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @aphakdy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Alex Phakdy!
+🎓 Computer Information Systems major with a minor in Business at the University of South Carolina. Passionate about web development, UI/UX design, and IT, I enjoy building user-centered applications with clean, intuitive interfaces.
 
-<!---
-aphakdy/aphakdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skills: Experienced with Django, MongoDB, Figma, Flexbox, and more. I love tackling both frontend and backend challenges and am particularly interested in e-commerce and educational platforms.
+
+🚀 Projects: Some highlights include:
+
+MajorHelp: A tool to help students find colleges that align with their goals and budgets.
+FlyEazy: A travel booking app inspired by Expedia, focused on delivering a seamless user experience.
+KuriKicks: An online sneaker store where users can list, buy, and explore sneaker collections.
+🌱 Currently learning more about full-stack development and expanding my skills in API integrations.
